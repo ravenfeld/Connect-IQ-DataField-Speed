@@ -1,0 +1,7 @@
+<resources>
+    <string id="AppName">Vitesse</string>
+    <string id="speed_min_title">Vitesse minimun</string>
+    <string id="speed_max_title">Vitesse maximun</string>
+    <string id="speed_max_auto_title">Vitesse maximun auto</string>
+    <string id="speed">Vitesse</string>
+</resources>
